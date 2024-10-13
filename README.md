@@ -8,3 +8,4 @@ Topics might include:
 4. Embedded AI
 5. Distributed System
 6. Cloud service provider
+7. Multi-Agent
