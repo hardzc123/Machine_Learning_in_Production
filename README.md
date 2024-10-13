@@ -6,3 +6,4 @@ Topics might include:
 2. Data Engineering
 3. MLOps
 4. Embedded AI
+5. Distributed System
