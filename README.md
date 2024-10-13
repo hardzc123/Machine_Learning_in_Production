@@ -7,3 +7,4 @@ Topics might include:
 3. MLOps
 4. Embedded AI
 5. Distributed System
+6. Cloud service provider
