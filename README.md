@@ -2,10 +2,11 @@
 This repo reveals my insights about how industry-level AI should be considered and implemented
 
 Topics might include: 
-1. Software Engineering
-2. Data Engineering
-3. MLOps
-4. Embedded AI
-5. Distributed System
-6. Cloud service provider
-7. Multi-Agent
+1. Linux / Bash
+2. Software Engineering
+3. Data Engineering
+4. MLOps
+5. Embedded AI
+6. Distributed System
+7. Cloud service provider
+8. Multi-Agent
