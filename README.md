@@ -47,3 +47,5 @@ MLOps
 pytorch in 100 seconds
 https://youtu.be/ORMx45xqWkA?si=c9-8SxsuOvaGjBYc
 
+deeplearning crash course
+https://youtu.be/VyWAvY2CF9c?si=fBwhqxnxvCARoX4z
