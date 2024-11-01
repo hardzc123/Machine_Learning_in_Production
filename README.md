@@ -42,3 +42,8 @@ dynamic training VS static training
 https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
 
 MLOps
+
+
+pytorch in 100 seconds
+https://youtu.be/ORMx45xqWkA?si=c9-8SxsuOvaGjBYc
+
