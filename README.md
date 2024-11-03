@@ -53,4 +53,34 @@ deeplearning crash course
 https://youtu.be/VyWAvY2CF9c?si=fBwhqxnxvCARoX4z
 
 
-## Software Engineering 
+## Software Engineering (now also powered by LLM)
+1. Always Design first before Development, KISS Principle, YAGNI, DRY 
+2. Code Readability
+3. Code Performance Optimization in Runtime, MVP, Agile, avoid premuture optimization
+5. Version Control
+6. Dependency management, virutal environment 
+7. Data Serialization and Configuration Development
+8. Testing / Automatic Testing (CICD, Regression Testing)
+9. Software Design Patterns
+10. Documentation
+11. Code Review
+12. Postmotem
+
+
+### Version Control
+```bash
+# common git commands
+git ....
+
+
+```
+Branch management: 
+
+- dev
+- test
+- master
+- feature
+- hotfix
+
+Semantic Versioning: https://semver.org/ ( created by Tom Preston-Werner, inventor of Gravatars and cofounder of GitHub.)
+
