@@ -84,3 +84,6 @@ Branch management:
 
 Semantic Versioning: https://semver.org/ ( created by Tom Preston-Werner, inventor of Gravatars and cofounder of GitHub.)
 
+
+https://www.conventionalcommits.org/en/v1.0.0/
+
