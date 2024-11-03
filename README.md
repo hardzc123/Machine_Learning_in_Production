@@ -87,3 +87,5 @@ Semantic Versioning: https://semver.org/ ( created by Tom Preston-Werner, invent
 
 https://www.conventionalcommits.org/en/v1.0.0/
 
+> [!TIP]
+> Have a look at **[git-conventional-commits](https://github.com/qoomon/git-conventional-commits)** , a CLI util to ensure these conventions, determine version and generate changelogs
