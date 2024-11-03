@@ -1,4 +1,4 @@
-'''python
+```bash
 
 conda create -n my_virtual_enviroment python=3.8
 conda env create -f environment.yml
@@ -18,5 +18,9 @@ conda info
 conda update conda
 conda clean -a (clean cache)
 
-'''
+```
+
+```python
+# Python code
+print("Hello from GFM-style code block")
 
