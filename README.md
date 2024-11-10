@@ -6,13 +6,17 @@ This repo reveals my insights about how industry-level AI should be considered a
 Topics might include: 
 1. Linux / Bash
 2. Software Engineering
-3. Data Engineering
-4. MLOps
-5. Embedded AI
-6. Distributed System
-7. Cloud service provider
-8. Multi-Agent
-9. AI Products
+3. Debugging C++
+4. Data Engineering
+5. MLOps
+6. Embedded AI
+   1. Cross-Compiling
+   2. Model serving
+7. Distributed System
+8. Cloud service provider
+9. Protobuf, Json
+10. Multi-Agent
+11. AI Products
 
 [Reference] https://developers.google.com/machine-learning/crash-course/production-ml-systems
 
