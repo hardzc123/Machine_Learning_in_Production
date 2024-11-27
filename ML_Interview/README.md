@@ -2,7 +2,7 @@
 
 ## Question:
 1. How do you deploy and monitor machine learning model in production
-
+  
 ## Machine Learning Lifecycle
 1. Scope your project
 2. define your data
